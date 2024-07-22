@@ -1,4 +1,3 @@
-### Hi there 👋
 # changhyeon
 <div align="center">
   
