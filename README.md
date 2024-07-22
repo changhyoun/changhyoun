@@ -3,7 +3,7 @@
   
   <img src="https://github.com/changhyoun/changhyeon/assets/141309121/1a80d1a2-ecea-45c1-9d7a-454db5a19b4e" />
  
-  <img src=" https://github.com/user-attachments/assets/d9b103c1-954d-4291-8e75-eaec940a86f9" />
+  <img src="https://github.com/user-attachments/assets/d9b103c1-954d-4291-8e75-eaec940a86f9" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1500&pause=3000&color=F7F7F7&random=false&width=270&lines=Thanks+for+watching+%3A)" alt="Typing SVG" /></a>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg">  
