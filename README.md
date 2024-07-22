@@ -90,6 +90,6 @@
 
 
 </div>
- <img src="./profile-3d-contrib/profile-night-rainbow.svg" />&nbsp
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
