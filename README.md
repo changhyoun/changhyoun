@@ -91,5 +91,5 @@
 
 </div>
 
-![](./profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
