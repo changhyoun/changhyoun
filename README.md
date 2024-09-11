@@ -18,8 +18,8 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp&nbsp
-  <img   src="https://camo.githubusercontent.com/ea61daeeace8d8828248397eddadeef95376bcd4f0d359a873845f29cf4658bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666c61742d737175617265266c6f676f3d53415353266c6f676f436f6c6f723d7768697465" alt="SASS" data-canonical-src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&amp;logo=SASS&amp;logoColor=white" style="max-width: 100%;height: 27px;">&nbsp&nbsp
-    <img src="https://img.shields.io/badge/bootstrap-7010ef.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp&nbsp
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" style="max-width: 100%;height: 27px;">&nbsp&nbsp
+  <img src="https://img.shields.io/badge/bootstrap-7010ef.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp&nbsp
   
 </div>
 
